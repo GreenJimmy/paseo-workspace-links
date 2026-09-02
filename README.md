@@ -4,6 +4,8 @@ A [Paseo](https://paseo.sh) plugin that adds a **Links** panel to every workspac
 
 Add a link like `https://railway.app/project/xyz/settings?branch={branch}` once, and every workspace (including worktrees) of that project gets a button that opens the right page for *its* branch.
 
+![The Links panel in a Paseo workspace](docs/links-panel.png)
+
 ## Features
 
 - **Links workspace panel** — lives beside agents, terminals, files, and diffs. Also reachable via ⌘K → "Open workspace links".
